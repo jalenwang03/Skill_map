@@ -3,9 +3,9 @@
 
 #范围
 目前计划的技能图谱以中间件产品为主，包括：
-Tuxedo
-WebLogic
-WebSphere
-Jboss
-Apache
-Nginx
+- Tuxedo
+- WebLogic
+- WebSphere
+- Jboss
+- Apache
+- Nginx
